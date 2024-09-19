@@ -1,0 +1,28 @@
+body {
+  background: #000100;
+}
+p {
+  color: rgb(200, 50, 100);
+}
+
+li {
+  color: green;
+}
+
+.link {
+  color: red;
+}
+
+.lista {
+  background: white;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
